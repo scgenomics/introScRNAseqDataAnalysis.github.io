@@ -2,15 +2,12 @@
 knitr::opts_chunk$set(echo = TRUE)
 knitr::opts_chunk$set(fig.width=9, fig.height=6) 
 ```
-
-<!-- NOTE: make sure exercises in ../R-selfassess.md and answers here match :-) -->
-
 # Exercise 0
 
 ## Load the data
 
 ```{r loading}
-load(url("https://github.com/scgenomics/scgenomics.github.io/blob/main/docs/self-assess/self-assessment.rda?raw=true"))
+load(url("https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io/blob/main/docs/self-assess/self-assessment.rda?raw=true"))
 
 ls() # Let's see what is there
 ```

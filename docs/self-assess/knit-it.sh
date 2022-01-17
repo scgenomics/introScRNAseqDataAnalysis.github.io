@@ -10,6 +10,7 @@ pagename=answers
 
 rm figure/*png                          # otherwise new figures are called fig3-1.png etc.
 ## R -e "rmarkdown::render('$pagename.Rmd')" # produces the *.md
+R -e "knitr::purl('$pagename.Rmd')" # produces the *.R
 R -e "knitr::knit('$pagename.Rmd')" # produces the *.md
 
 ## rm $pagename.html # jekyll will generate its own
@@ -18,8 +19,7 @@ R -e "knitr::knit('$pagename.Rmd')" # produces the *.md
 
 \mv -f $pagename.md  $pagename.md~ 
 
-(cat ../../lesson-header.txt
- cat $pagename.md~
+(cat $pagename.md~
  echo "\n\n### [Back to main](../course.md)" # different from lesson-footer.tx
 ) > $pagename.md
 

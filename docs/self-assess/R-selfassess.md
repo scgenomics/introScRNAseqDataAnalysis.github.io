@@ -20,7 +20,7 @@ Inside your RStudio session, load the following data from the course
 website exactly as
 
 ```
-load(url("https://github.com/scgenomics/scgenomics.github.io/blob/main/docs/self-assess/self-assessment.rda?raw=true"))
+load(url("https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io/blob/main/docs/self-assess/self-assessment.rda?raw=true"))
 ```
 (triple-clicking the code selects it).  This retrieves an
 object called `meta.data`, which is a `data.frame` containing

@@ -1,10 +1,3 @@
----
-layout: default
----
-<!-- this file is apppended to all the knitted *.md files by knit-it.sh -->
-
-
-<!-- NOTE: make sure exercises in ../R-selfassess.md and answers here match :-) -->
 
 # Exercise 0
 
@@ -12,7 +5,7 @@ layout: default
 
 
 ```r
-load(url("https://github.com/scgenomics/scgenomics.github.io/blob/main/docs/self-assess/self-assessment.rda?raw=true"))
+load(url("https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io/blob/main/docs/self-assess/self-assessment.rda?raw=true"))
 
 ls() # Let's see what is there
 ```
