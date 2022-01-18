@@ -3,7 +3,22 @@ layout: default
 title: Single-cell RNA-seq data analysis with R
 description: an introductory course organized by the Princess Maxima Single Cell facility
 ---
-<!-- Note: this is the only page where description is overriden -->
+
+<!-- The source of this page is
+
+https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io 
+
+(docs/index.md)
+
+which is automatically rendered as
+
+https://scgenomics.github.io/introScRNAseqDataAnalysis.github.io/
+
+after pushing to github. For problems with rendering  check 
+
+https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io/deployments/activity_log?environment=github-pages
+
+-->
 
 ![logo](img/scgenomics.png)
 <!-- for {{ site.variables }} see _config.yml -->
