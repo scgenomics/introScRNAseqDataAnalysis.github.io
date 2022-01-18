@@ -45,9 +45,13 @@ We will work with [RStudio](https://www.rstudio.com/) which provides the
 environment](https://www.r-project.org/). There is no need to install
 RStudio yourself (except perhaps for the
 [self-assessment](self-assess/R-selfassess.md), see below).
+
+## Hardware
+
 For this course we will provide you with software that connects to
 a remote RStudio server. This remote server will contain everything
-you need for this course. You only have to bring your laptop. 
+you need for this course. **Please bring your laptop**, or let us know 
+in advance and we can provide you with one. 
 
 ## Learning objectives
 
