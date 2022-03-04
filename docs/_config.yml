@@ -11,7 +11,7 @@ exclude:
 
 ### theme related stuff:
 theme: jekyll-theme-leap-day
-## remote_theme: pmarsceill/just-the-docs ## see also local_config.yml
+## remote_theme: pmarsceill/just-the-docs ## see also local_config.yml (when using local-render.sh)
 ## theme: "just-the-docs"
 
 nav_order: 0 
@@ -43,6 +43,9 @@ include:
 
 ## custom variables. Use them as eg. {{ site.course_date }} in your markdown
 ## When using jekyll locally be sure to clear the cache and restart the server
-course_date: "Mon 24 Jan - Tue 25 Jan 2022"
-registration_url: "https://www.primaacademy.nl/pmc/servlet/ekp?CID=EKP000001863&TX=FORMAT1&BACKTOCATALOG=Y&DECORATEPAGE=N"
+
+## course_date: "Mon 24 Jan - Tue 25 Jan 2022"
+course_date: TO BE ANNOUNCED.
+## registration_url: "https://www.primaacademy.nl/pmc/servlet/ekp?CID=EKP000001863&TX=FORMAT1&BACKTOCATALOG=Y&DECORATEPAGE=N"
+registration_url: "https://www.primaacademy.nl/"
 
