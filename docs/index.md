@@ -28,8 +28,7 @@ https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io/deployments/ac
 
 ## Dates
 
-This two-day hands-on course will be held **{{ site.course_date }}**,
-from 9:30 - 12:30 and  from 13:30 - 16:30.
+{{site.course_date}}
 
 ## Location
 
@@ -42,8 +41,13 @@ R. (Familiarity with R is a prerequisite, see below).
 
 ## Registration
 
-You can register [through the Princess Maxima Academy]({{site.registration_url}}), or using this QR-code:<br>
-<img src="img/registration-QR.png" alt="QR-code" style="width:80px;" /><br>
+You can register your interest [through the Princess Maxima Academy]({{site.registration_url}}).
+
+<!-- 
+-- or using this QR-code:<br>
+--  <img src="img/registration-QR.png" alt="QR-code" style="width:80px;" /><br>
+-->
+
 Having succesfully completed the course, participants are awarded 0.5
 ECTS.
 
