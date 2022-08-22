@@ -89,20 +89,21 @@ After this course, you should be able to:
 ## Prerequisities
 
 To participate in this hands-on course you should be reasonably fluent
-in using R.  We will be using R and various R packages, including
+in using R.  We will be using
+[R](https://www.r-project.org/)/[RStudio](https://www.rstudio.com/) and
+various R packages, the most important one being
 [Seurat](https://satijalab.org/seurat/). If you are not quite sure if
 your R skills are up to scratch, please do the following self-assement.
 
 ### Self-assessment
 
 [This exercise](self-assess/R-selfassess.md) should take you no more than around 15
-minutes.
+minutes. Please do actually time yourself, if it takes more than that you really must brush up your skills, otherwise taking the course will be a waste of time.
 
 ## Lecturers
 
 - Tito Candelli
 - Lindy Visser
-<!-- - Wout Megchelenbrink --> 
 - Philip Lijnzaad
 - Thanasis Margaritis
 

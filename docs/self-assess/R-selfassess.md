@@ -5,9 +5,10 @@ layout: default
 
 This hands-on course makes intensive use of the R programming
 language. If you are not sure if your R is good enough, please try and
-do the following exercise. If it takes you much more than around 15
-minutes, you should seriously consider doing an R course before
-participating. See below for pointers to courses.
+do the following exercise. If it takes you more than around 15
+minutes (please time yourself!), you should do an R course before
+participating, otherwise you're wasting your and our time, while taking
+up someone else's place. See below for pointers to courses.
 
 ## Installing RStudio
 
@@ -53,7 +54,7 @@ involved and may award credits you could have a look at
 - <https://www.coursera.org/learn/r-programming/>
 - <https://www.edx.org/course/statistics-and-r/>
 
-## Seurat Vignettes
+## Seurat vignettes
 
 R packages often have so-called 'vignettes', they are tutorials and more
 extensive documentation on how to use a package. Seurat also has quite a
@@ -61,4 +62,8 @@ number of them, see <https://satijalab.org/seurat/articles/get_started.html>.
 While we don't use these vignettes in the course, they are highly
 recommended so it's useful to go through them.
 
-### [Back to main](../course.md)
+## SingleR vignette
+
+We use the [SingleR](https://bioconductor.org/packages/SingleR/) [(Aran et al. 2019)](https://www.nature.com/articles/s41590-018-0276-y) package for cell-typing; it's also useful to go over its vignette, see [https://bioconductor.org/packages/devel/bioc/vignettes/SingleR/inst/doc/SingleR.html](https://bioconductor.org/packages/devel/bioc/vignettes/SingleR/inst/doc/SingleR.html)
+
+### [Back to main](../index.md)
