@@ -82,9 +82,9 @@ After this course, you should be able to:
 - apply simple batch effect corrections
 - determine confounder genes
 - find reasonable parameters for dimensionality reduction and clustering
-- perform Differential Gene Expression
+- perform Differential Gene Expression analysis
 - do automatic cell type identification
-- call copy number variations
+- call copy number variants to identify malignant cells
 
 ## Prerequisities
 
@@ -93,12 +93,15 @@ in using R.  We will be using
 [R](https://www.r-project.org/)/[RStudio](https://www.rstudio.com/) and
 various R packages, the most important one being
 [Seurat](https://satijalab.org/seurat/). If you are not quite sure if
-your R skills are up to scratch, please do the following self-assement.
+your R skills are up to scratch, please do [the following
+self-assement](self-assess/R-selfassess.md).
 
 ### Self-assessment
 
-[This exercise](self-assess/R-selfassess.md) should take you no more than around 15
-minutes. Please do actually time yourself, if it takes more than that you really must brush up your skills, otherwise taking the course will be a waste of time.
+[This exercise](self-assess/R-selfassess.md) should take you no more
+than around 15 minutes. Please do actually time yourself, if it takes
+more than that you really must brush up your skills, otherwise taking
+the course will be a waste of time.
 
 ## Lecturers
 
