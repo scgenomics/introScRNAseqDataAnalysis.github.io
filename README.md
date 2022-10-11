@@ -15,7 +15,7 @@ course. It should be visible as
   https://scgenomics.github.io/introScRNAseqDataAnalysis.github.io/
 
 
-(see also https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io/deployments)
+(see also https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io/deployments )
 
 The 'front page' source is docs/index.md. 
 
