@@ -32,12 +32,12 @@ https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io/deployments/ac
 
 ## Location
 
-The Princess Maxima Foyer Auditorium.
+The Princess Maxima Auditorium Foyer.
 
 ## Intended audience
 
 People that do in-depth analyses of single-cell RNA-seq data using
-R. (Familiarity with R is a prerequisite, see below).
+R. (Familiarity with R is an absolute prerequisite, see below).
 
 ## Registration
 

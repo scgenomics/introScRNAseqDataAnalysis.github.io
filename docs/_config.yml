@@ -45,7 +45,7 @@ include:
 ## When using jekyll locally be sure to clear the cache and restart the server
 
 ## course_date: "Mon 24 Jan - Tue 25 Jan 2022"
-course_date: TO BE ANNOUNCED.
+course_date: "Mon 12 Dec - Tue 13 Dec"
 ## registration_url: "https://www.primaacademy.nl/pmc/servlet/ekp?CID=EKP000001863&TX=FORMAT1&BACKTOCATALOG=Y&DECORATEPAGE=N"
 registration_url: "https://www.primaacademy.nl/"
 

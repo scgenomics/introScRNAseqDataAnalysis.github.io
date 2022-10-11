@@ -76,7 +76,7 @@ sort(decreasing=TRUE,table(meta.data$celltypes))[1]
 ## Macrophage 
 ##        799
 ```
-##  Exercise 3
+##  Exercise 4
 
 Create a plot number of transcripts (column `nUMI` versus numbers of
 genes (column `nGene`) of only the cells in cluster `0` (column
@@ -84,6 +84,8 @@ genes (column `nGene`) of only the cells in cluster `0` (column
 
 
 ```r
+## We give two solutions, one using base graphics, one using ggplot2:
+##
 ## using base graphics:
 cluster <- 0 # this makes a bit more general
 data <- meta.data[ meta.data$seurat_clusters==cluster, ]
@@ -99,7 +101,8 @@ plot(x=data$nGene, y=data$nUMI, log='xy', # using logarithmic axes here
      xlab='number of genes',
      ylab='number of UMIs')
 
-## using ggplot2
+## using ggplot2:
+
 library(ggplot2)
 ```
 
