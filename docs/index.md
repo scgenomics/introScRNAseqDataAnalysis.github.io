@@ -93,8 +93,7 @@ in using R.  We will be using
 [R](https://www.r-project.org/)/[RStudio](https://www.rstudio.com/) and
 various R packages, the most important one being
 [Seurat](https://satijalab.org/seurat/). If you are not quite sure if
-your R skills are up to scratch, please do [the following
-self-assement](self-assess/R-selfassess.md).
+your R skills are up to scratch, please do the following self-assement.
 
 ### Self-assessment
 
