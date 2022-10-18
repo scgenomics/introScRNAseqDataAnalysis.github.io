@@ -43,7 +43,7 @@ R. (Familiarity with R is an absolute prerequisite, see below).
 
 <!-- You can register your interest [through the Princess Maxima Academy]({{site.registration_url}}) -->
 
-You can register (Princess Maxima employees only) by sending an e-mail to us; see our  e-mail.
+You can register (Princess Maxima employees only) by sending a message to us; see our  e-mail.
 
 <!-- 
 -- or using this QR-code:<br>
