@@ -43,7 +43,7 @@ R. (Familiarity with R is an absolute prerequisite, see below).
 
 <!-- You can register your interest [through the Princess Maxima Academy]({{site.registration_url}}) -->
 
-You can register (Princess Maxima employees only) by sending a message to us; see our  e-mail.
+You can register (Princess Maxima employees only) by sending a message to us; see our  e-mail and Join message. Please do so before Monday, Oct 31st.
 
 <!-- 
 -- or using this QR-code:<br>
@@ -111,7 +111,11 @@ the course will be a waste of time.
 - Philip Lijnzaad
 - Thanasis Margaritis
 
+## Fee
+
+The fee for participating is 50 euros.
+
 ## Additional information
 
 - <mailto:scgenomics@princessmaximacentrum.nl> for substantional and technical matters
-- <mailto:academy@prinsesmaximacentrum.nl> for practical matters
+
