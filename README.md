@@ -8,16 +8,16 @@
 
 # Overview for admins
 
-This repo ( https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io )
-is the 'front page' of our *Introduction to single-cell RNA-seq data analysis with R*
-course. It should be visible as 
+This repo (https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io )
+is used for the 'front page' (and prerequisite self-assessment) of our
+*Introduction to single-cell RNA-seq data analysis with R* course. It
+should be visible as
 
   https://scgenomics.github.io/introScRNAseqDataAnalysis.github.io/
 
-
 (see also https://github.com/scgenomics/introScRNAseqDataAnalysis.github.io/deployments )
 
-The 'front page' source is docs/index.md. 
+The 'front page' itself can be found in docs/index.md. 
 
 The course _content_ is in https://github.com/scgenomics/scgenomics.github.io
 which may not be visible.
