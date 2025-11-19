@@ -2,7 +2,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-** This repo has moved to https://bitbucket.org/princessmaximacenter/intro-course-homepage/src/main/**
+**This repo has moved to https://bitbucket.org/princessmaximacenter/intro-course-homepage/src/main/**
 
 - [Overview](#overview)
 
